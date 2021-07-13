@@ -106,4 +106,4 @@ async def clear(ctx, error):
         await ctx.send('please pass in all required arguments')
 
 
-client.run("Njg5ODA4NjEyNTI0Mjk0MjM4.XnIQVQ.Del9d-7wLASGXJEqtzk5jEcL4WU")
+client.run("Njg5ODA4NjEyNTI0Mjk0MjM4.XnIQVQ.GUFj4VDnpemiuWNKdUQNt2tJ1HE")
